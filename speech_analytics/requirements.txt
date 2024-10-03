@@ -1,0 +1,6 @@
+google-cloud-storage==2.5.0
+google-cloud-firestore==2.7.0
+google-cloud-speech==2.9.0
+ffmpeg-python==0.2.0
+pyyaml==6.0
+
